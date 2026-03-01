@@ -1,0 +1,11 @@
+class Person:
+    def greet(self):
+        print("Hello")
+
+class Employee(Person):
+    def work(self):
+        print("Working")
+
+e1 = Employee()
+e1.greet()
+e1.work()
