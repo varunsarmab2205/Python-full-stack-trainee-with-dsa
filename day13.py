@@ -1,4 +1,4 @@
-paragraph = "Varun Kandukuri is passionate about technology and learning Python."
+,paragraph = "Varun Kandukuri is passionate about technology and learning Python."
 
 vowels = ['a','e','i','o','u','A','E','I','O','U']
 
