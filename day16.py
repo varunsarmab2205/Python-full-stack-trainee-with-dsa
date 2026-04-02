@@ -58,7 +58,6 @@ if fact_all == per_num:
     print(f"{per_num} is the perfect num")
 else:
     print(f"{per_num} is not a perfect num")
-    
 
     
     
