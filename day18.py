@@ -22,7 +22,7 @@ for j in range (num) :
     for i in range(num-j):
         print("*",end = " ")
     print( )
-
+ '''
 
 #pyramid 
 num = int (input ("enter limit: "))
@@ -31,6 +31,6 @@ for j in range (num) :
     for j in range(j+1):
         print(" i ",end = "  ")
     print(  )
-    '''
+    
 
  
