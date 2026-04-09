@@ -5,7 +5,7 @@ A LAMBDA FUNCTION CAN TAKE N NUMBER OF ARGUMENTS NUT HAVE ONLY ONE  EXPRESSION.
 CAN BE WRITTEN IN A SINGLE LINE
 
 "SYNTAX ----- lambda (keyword) arguments : expression"
-'''
+
 
 'EXAMPLE-1'
 
@@ -83,6 +83,7 @@ print(derived_list)
 my_list = [22,26,27,31,12,3,19,14,15,18]
 derived_list = [j for j in my_list if j>12 ]
 print(derived_list)
+'''
 
 
 
