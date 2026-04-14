@@ -25,6 +25,7 @@ def even(n1):
 even(n1)
 
 
+'''
 
 'PRIMIE NUMBER'
 
@@ -42,7 +43,7 @@ while(1) :
            
 
 
-def any (num, num_3, num_2) ;
+def any (num, num_3, num_2) :
      print (f"num = {num}, num_2= {num_2}, num_3= {num_3}")
-any(num_2=7, num=0,  num_3 = 90) '''
+any(num_2=7, num=0,  num_3 = 90) 
 
