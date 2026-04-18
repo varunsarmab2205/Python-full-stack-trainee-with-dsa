@@ -22,10 +22,10 @@ class Class_Name:
                 self.arguments = value
 object_name = class_name ()
 - here each  argument is a attribute, self is the keyword of the constructor init
-'''
+
 '#1.  Car-1'
 class Car :
-         def  __init__(Self, name, model, speed):
+         def  __init__(Self, name, model, speed):sss
                  Self.name = name
                  Self.speed = speed
                  Self.model = model
@@ -38,3 +38,54 @@ c2 = Car("AUDI", 2024, 180)
 
 c1.display()
 c2.display()
+
+
+'#2. Dog'
+
+class Dog:
+    def __init__(self, name, breed, age):
+        self.name = name
+        self.breed = breed
+        self.age = age
+
+    def display(self):
+        print(f"{self.name} is a {self.breed} and is {self.age} years old")
+
+d1 = Dog("Maxi", "Labrador", 2)
+d2 = Dog("Choci", "German Shepherd", 5)
+
+d1.display()
+d2.display()
+
+
+'#3. Mobile'
+
+class Mobile:
+    def __init__(self, brand, model, price):
+        self.brand = brand
+        self.model = model
+        self.price = price
+
+    def display(self):
+        print(f"{self.brand} {self.model} costs ₹{self.price}")
+
+m1 = Mobile("Apple", "iPhone 15", 80000)
+m2 = Mobile("Samsung", "S24", 70000)
+
+m1.display()
+m2.display()
+
+
+'- - - > Constructor (__init__) '
+'- - - - - - - - - - - - - - - - - - - - - - - - - - - - '
+'- - - > A Constructor is a special method usedn to intiallize object data'
+'-  __init__()'
+
+
+
+
+
+
+
+
+
