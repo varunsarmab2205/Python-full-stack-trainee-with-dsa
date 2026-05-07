@@ -1,0 +1,30 @@
+
+<table border="2">
+    <tr>
+        <th>YEAR</th>
+        <th>CM NAME</th>
+        <th>VOTE %</th>
+        <th>IMAGE</th>
+    </tr>
+
+```
+<tr>
+    <td>1983</td>
+    <td>NTR</td>
+    <td>46.30%</td>
+    <td>
+        <img src="https://www.filmibeat.com/ph-big/2020/01/ntr_157838645540.jpg" 
+             alt="NTR" width="120" height="120">
+    </td>
+</tr>
+
+<tr>
+    <td>2026</td>
+    <td>Vijay</td>
+    <td>34.92%</td>
+    <td>
+        <img src="https://www.filmibeat.com/ph-big/2023/06/vijay_168559321540.jpg" 
+             alt="Vijay" width="120" height="120">
+    </td>
+</tr>
+```

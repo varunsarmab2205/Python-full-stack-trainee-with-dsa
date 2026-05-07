@@ -1,4 +1,4 @@
-print("---------***********VARUN INSTITUTE Details*************--------")
+'''print("---------***********VARUN INSTITUTE Details*************--------")
 
 class Student:
     def __init__(self, Name, Age, EducationalBackground, ID):
@@ -37,3 +37,78 @@ p1 = Professor("Bhanu", 28, "Python", 80000, 101)
 
 s1.display()
 p1.display()
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
